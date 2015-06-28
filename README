@@ -1,9 +1,9 @@
 A super simple strip tags gem.
 
 
-To use, just install it
+To use, download to libs/striptags then add to Gemfile
 
-  gem install striptags
+  gem 'striptags', :path => 'libs/striptags'
 
 require it
 
